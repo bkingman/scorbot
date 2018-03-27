@@ -3,4 +3,4 @@
  Members: Brandon Kingman, Alex DiTommaso, Greg Gaudet
  Supervisors: Dr. Losier, Dr. Carretero
  
- Files contain code created for scorbot ER-V control, DSPIC33- Modular system
+ Files contain code and Schematic created for scorbot ER-V control, DSPIC33- Modular system
